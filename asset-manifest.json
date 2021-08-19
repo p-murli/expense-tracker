@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/p-murli/expense-tracker/static/css/main.45162fd5.chunk.css",
-    "main.js": "/p-murli/expense-tracker/static/js/main.9a66bed4.chunk.js",
-    "main.js.map": "/p-murli/expense-tracker/static/js/main.9a66bed4.chunk.js.map",
-    "runtime-main.js": "/p-murli/expense-tracker/static/js/runtime-main.3b284caf.js",
-    "runtime-main.js.map": "/p-murli/expense-tracker/static/js/runtime-main.3b284caf.js.map",
-    "static/js/2.b25b83e5.chunk.js": "/p-murli/expense-tracker/static/js/2.b25b83e5.chunk.js",
-    "static/js/2.b25b83e5.chunk.js.map": "/p-murli/expense-tracker/static/js/2.b25b83e5.chunk.js.map",
-    "static/js/3.21e93d80.chunk.js": "/p-murli/expense-tracker/static/js/3.21e93d80.chunk.js",
-    "static/js/3.21e93d80.chunk.js.map": "/p-murli/expense-tracker/static/js/3.21e93d80.chunk.js.map",
-    "index.html": "/p-murli/expense-tracker/index.html",
-    "static/css/main.45162fd5.chunk.css.map": "/p-murli/expense-tracker/static/css/main.45162fd5.chunk.css.map",
-    "static/js/2.b25b83e5.chunk.js.LICENSE.txt": "/p-murli/expense-tracker/static/js/2.b25b83e5.chunk.js.LICENSE.txt"
+    "main.css": "/expense-tracker/static/css/main.45162fd5.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.9a66bed4.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.9a66bed4.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.3f22b6f1.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.3f22b6f1.js.map",
+    "static/js/2.b25b83e5.chunk.js": "/expense-tracker/static/js/2.b25b83e5.chunk.js",
+    "static/js/2.b25b83e5.chunk.js.map": "/expense-tracker/static/js/2.b25b83e5.chunk.js.map",
+    "static/js/3.21e93d80.chunk.js": "/expense-tracker/static/js/3.21e93d80.chunk.js",
+    "static/js/3.21e93d80.chunk.js.map": "/expense-tracker/static/js/3.21e93d80.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "static/css/main.45162fd5.chunk.css.map": "/expense-tracker/static/css/main.45162fd5.chunk.css.map",
+    "static/js/2.b25b83e5.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.b25b83e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b284caf.js",
+    "static/js/runtime-main.3f22b6f1.js",
     "static/js/2.b25b83e5.chunk.js",
     "static/css/main.45162fd5.chunk.css",
     "static/js/main.9a66bed4.chunk.js"
