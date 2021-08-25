@@ -8,9 +8,9 @@ The website is live at https://p-murli.github.io/expense-tracker/
 
 ## Project Screen Shots
 
-![expense tracker dark](https://github.com/p-murli/expense-tracker/blob/main/assets/expense_dark.jpg)
+<img src="https://github.com/p-murli/expense-tracker/blob/main/assets/expense_light.jpg" width=50%>
+<img src="https://github.com/p-murli/expense-tracker/blob/main/assets/expense_light.jpg" width=50%>
 
-![expense tracker light](https://github.com/p-murli/expense-tracker/blob/main/assets/expense_light.jpg)
 
 ## Installation and Setup Instructions
 
